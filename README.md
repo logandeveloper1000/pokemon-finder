@@ -8,7 +8,7 @@ Live Preview
 -----
 
 You can view the project live here:
-https://logan-pokemon-finder.netlify.app/
+https://user-pokemon-finder.netlify.app/
 
 Features
 -----
